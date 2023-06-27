@@ -1,0 +1,22 @@
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+.Heading {
+  margin-top: 0px;
+  background-color: #000000;
+  color: white;
+  padding: 10px;
+}
+
+.content {
+  padding: 2px 20px;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
