@@ -45,3 +45,5 @@ def echoPlainText(string: str):
 @app.get("/osi", summary="Take me to youtube video about OSI")
 def redirectToYoutube():
     return RedirectResponse(url="https://www.youtube.com/watch?v=KHMwhjQrCmo")
+
+
